@@ -1,4 +1,4 @@
-Project Title: Real-Time Speech Recognition and Synthesis System
+# Project Title: Integrating Speech Recognition and Synthesis on ChatGPT
 
 **Overview**
 
